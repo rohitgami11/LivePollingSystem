@@ -1,0 +1,15 @@
+# Node modules
+lpsfrontend/node_modules/
+lpsbackend/node_modules/
+
+# Environment files
+lpsfrontend/.env
+lpsbackend/.env
+
+# Logs
+lpsfrontend/npm-debug.log*
+lpsbackend/npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db 
